@@ -1,6 +1,3 @@
-.socialproofsection-container {
-  min-height: 100vh;
-}
 .socialproofsection-socialproofsection {  
   width: 100%;
   height: 430;
@@ -10,7 +7,7 @@
   flex-direction: column;
   justify-content: center;
   background-color: #FFFFFF;
-  /* margin-block-end: 10px; */
+  top: 800px;
 }
 .socialproofsection-container1 {
   width: 1280px;

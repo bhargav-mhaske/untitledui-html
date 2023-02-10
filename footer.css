@@ -508,7 +508,7 @@
   align-items: center;
   border-color: rgba(234, 236, 240, 1);
   border-style: solid;
-  border-width: Symbol(figma.mixed)px;
+  border-top: 1px solid #EAECF0;
 }
 .footer-allrughts {
   color: #667085;
